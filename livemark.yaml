@@ -1,0 +1,50 @@
+site:
+  title: Data Skills
+brand:
+  text: HSLU
+about:
+  text: A data-hiker's guide to the galaxy
+site:
+  favicon: assets/favicon.ico
+  styles:
+    - docs/style.css
+topics:
+  selector: h2
+links:
+  items:
+    - name: School of Data CH
+      path: https://schoolofdata.ch
+    - name: Dribdat
+      path: https://dribd.at
+    - name: HSLU
+      path: https://hslu.ch
+pages:
+  items:
+    - path: docs/index
+      name: Intro
+    - path: docs/0_define
+      name: Definitions
+    - path: docs/0_heroes
+      name: On Heroes & Villains
+    - path: docs/1_skills
+      name: What are Data Skills
+    - path: docs/1_toolbox
+      name: Building your Toolbox
+    - path: docs/2_collect
+      name: Collecting data
+    - path: docs/2_experience
+      name: Designing experiences
+    - path: docs/2_reliability
+      name: 3 A's of reliable data
+    - path: docs/2_scraping
+      name: Scraping to save the web
+    - path: docs/2_small
+      name: Small data is big purpose
+    - path: docs/3_linked
+      name: How to link your data
+    - path: docs/3_machine
+      name: Quo vadis machine learning
+    - path: docs/4_teamwork
+      name: On teamwork and collaboration
+    - path: docs/5_credits
+      name: Closing words and gratitude
